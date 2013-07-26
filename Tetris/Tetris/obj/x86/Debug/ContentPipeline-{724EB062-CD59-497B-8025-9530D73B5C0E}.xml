@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{724EB062-CD59-497B-8025-9530D73B5C0E}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\TetrisProject\Tetris\TetrisContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\TetrisProject\Tetris\Tetris\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\TetrisProject\Tetris\Tetris\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\TetrisProject\Tetris\Tetris\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-06-22T00:03:35.4296199+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

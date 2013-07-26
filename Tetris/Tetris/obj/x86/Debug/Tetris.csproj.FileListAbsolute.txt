@@ -1,0 +1,36 @@
+C:\Users\Rasmus\Documents\Visual Studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Tetris.exe
+C:\Users\Rasmus\Documents\Visual Studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Tetris.pdb
+C:\Users\Rasmus\Documents\Visual Studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\Rasmus\Documents\Visual Studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rasmus\Documents\Visual Studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+C:\Users\Rasmus\Documents\Visual Studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Users\Rasmus\Documents\Visual Studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\Tetris.Form1.resources
+C:\Users\Rasmus\Documents\Visual Studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Tetris.exe
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\Tetris\Tetris\Tetris\bin\x86\Debug\Tetris.pdb
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\Tetris.Form1.resources
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\Tetris\Tetris\Tetris\obj\x86\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\TetrisBackup Dansk\Tetris\Tetris\bin\x86\Debug\Tetris.exe
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\TetrisBackup Dansk\Tetris\Tetris\bin\x86\Debug\Tetris.pdb
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\TetrisBackup Dansk\Tetris\Tetris\obj\x86\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\TetrisBackup Dansk\Tetris\Tetris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\TetrisBackup Dansk\Tetris\Tetris\obj\x86\Debug\Tetris.Form1.resources
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\TetrisBackup Dansk\Tetris\Tetris\obj\x86\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\TetrisBackup Dansk\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\TetrisBackup Dansk\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\TetrisProject\Tetris\Tetris\bin\x86\Debug\Tetris.exe
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\TetrisProject\Tetris\Tetris\bin\x86\Debug\Tetris.pdb
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\TetrisProject\Tetris\Tetris\obj\x86\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\TetrisProject\Tetris\Tetris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\TetrisProject\Tetris\Tetris\obj\x86\Debug\Tetris.Form1.resources
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\TetrisProject\Tetris\Tetris\obj\x86\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\TetrisProject\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\TetrisProject\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\TetrisProject\Tetris\Tetris\bin\x86\Debug\Tetris.exe.manifest
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\TetrisProject\Tetris\Tetris\bin\x86\Debug\Tetris.application
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\TetrisProject\Tetris\Tetris\obj\x86\Debug\Tetris.exe.manifest
+C:\Users\Cosmo\Documents\Visual Studio 2010\Projects\TetrisProject\Tetris\Tetris\obj\x86\Debug\Tetris.application
